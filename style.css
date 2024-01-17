@@ -311,7 +311,7 @@ header nav a:first-child {
   display: flex;
   align-items: center;
   gap: 24px;
-  margin: auto;
+  margin: 0 auto 100px auto;
   height: 422px;
   width: 1170px;
 }
